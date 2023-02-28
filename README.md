@@ -7,7 +7,7 @@ My goal is to become a proficient software developer who can craft beautiful and
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/pranav_undre?label=Follow)](https://twitter.com/pranav_undre)
 [![GitHub Follow](https://img.shields.io/github/followers/pranavundre?label=Follow&style=social)](https://github.com/pranavundre)
-[![Linkedin: prasoon](https://img.shields.io/badge/-pranav-undre-920961177-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-undre-920961177/)](https://www.linkedin.com/in/pranav-undre-920961177/)
+[![Linkedin](https://img.shields.io/badge/-pranav-undre-920961177-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-undre-920961177/)](https://www.linkedin.com/in/pranav-undre-920961177/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://www.instagram.com/pranavuuu.dmg/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pranavundre/)
 ![Visitors](https://komarev.com/ghpvc/?username=your-github-pranavundre&color=blue&style=badge&label=Visitors)
