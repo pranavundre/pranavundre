@@ -1,10 +1,17 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+# Visitor Count
+<div>
+    <p> <img src="https://profile-counter.glitch.me/pranavundre/count.svg" /> </p>
+</div>
+
+
+<!-- <div id="header" align="center"> -->
+<!--   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/> -->
+ 
   
-  <h1>
+  <h3>
     Hey there, I'm Pranav!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h3>
   </div>
   
   
@@ -37,6 +44,8 @@ My goal is to become a proficient software developer who can craft beautiful and
   <img src="https://api.iconify.design/logos/bem.svg" title="Bem" alt="Bem" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40"/>&nbsp;
 </div>
+
+
 
 
   
