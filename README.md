@@ -1,34 +1,17 @@
-# Visitor Count
-<div>
-    <p> <img src="https://profile-counter.glitch.me/pranavundre/count.svg" /> </p>
-</div>
-<!-- <div id="header" align="center"> -->
-<!--   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/> -->
-
-# :technologist: About Me
-
-  <h2>
-    Hey there, I'm Pranav!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h2>
-  </div>
+# :technologist: Hey there, I'm Pranav! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 I am a Junior Full Stack Developer.
 
 I have a passion for software development and I love exploring the endless possibilities in this field. For more than a year, I have been focusing on web development, which is a fascinating and diverse field that combines creativity, logic and problem-solving skills. I am amazed by the technologies that power the web, such as HTML, CSS, JavaScript, React, Node.js and many more. Besides web development, I have also taken up competitive programming with C++, where I hone my creativity and analytical thinking by tackling difficult coding tasks using different data structures and algorithms.
 My goal is to become a proficient software developer who can craft beautiful and functional products and applications that solve real-world problems.
 
-🌐 Languages : English, Hindi, Marathi
-
--
-
-# 📫 How to Reach
-
-[<img alt="LinkedIn"
-    src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranav-undre-920961177/)
-    
-[<img alt="Twitter" src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge"/>](https://twitter.com/pranav_undre)
-    
+[![Twitter Follow](https://img.shields.io/twitter/follow/pranav_undre?label=Follow)](https://twitter.com/pranav_undre)
+[![GitHub Follow](https://img.shields.io/github/followers/pranavundre?label=Follow&style=social)](https://github.com/pranavundre)
+[![Linkedin: prasoon](https://img.shields.io/badge/-pranav-undre-920961177-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-undre-920961177/)](https://www.linkedin.com/in/pranav-undre-920961177/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://www.instagram.com/pranavuuu.dmg/)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pranavundre/)
+![Visitors](https://komarev.com/ghpvc/?username=your-github-pranavundre&color=blue&style=badge&label=Visitors)
+        
 
 
 ### My stack and tools :
